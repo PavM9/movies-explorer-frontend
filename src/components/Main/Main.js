@@ -1,13 +1,13 @@
 import Promo from '../Promo/Promo';
+import AboutProject from '../AboutProject/AboutProject'
 import './Main.css';
 
 const Main = () => {
   return (
     <div>
       <Promo />
-      {/* <NavTab />
       <AboutProject />
-      <Techs />
+      {/* <Techs />
       <AboutMe />
       <Portfolio /> */}
     </div>

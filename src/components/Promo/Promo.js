@@ -2,7 +2,7 @@ import './Promo.css';
 
 const Promo = () => {
   return (
-    <section className="promo">
+    <section className="container promo">
       <div className="promo__banner">
         <h1 className="promo__title">
         Учебный проект студента факультета <nobr>Веб-разработки.</nobr>
