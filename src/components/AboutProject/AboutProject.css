@@ -12,13 +12,13 @@
 .about__heading {
   font-weight: normal;
   font-size: 20px;
-  line-height: calc(24 / 20);
+  line-height: 24px;
   margin: 0 0 26px;
 }
 
 .about__paragraph {
   font-size: 14px;
-  line-height: calc(20 / 14);
+  line-height: 20px;
   margin: 0;
 }
 
@@ -44,7 +44,7 @@
   background-color: #f2f2f2;
   text-align: center;
   font-size: 14px;
-  line-height: calc(17 / 14);
+  line-height: 17px;
   margin-bottom: 14px;
 }
 
@@ -57,7 +57,7 @@
   text-align: center;
   font-weight: 500;
   font-size: 14px;
-  line-height: calc(17 / 14);
+  line-height: 17px;
   color: #a0a0a0;
 }
 
@@ -86,13 +86,13 @@
 
   .about__heading {
     font-size: 18px;
-    line-height: calc(22 / 18);
+    line-height: 22px;
     margin-bottom: 16px;
   }
 
   .about__paragraph {
     font-size: 11px;
-    line-height: calc(16 / 11);
+    line-height: 16px;
   }
 
   .about__backend {
@@ -101,13 +101,13 @@
 
   .about__bar {
     font-size: 11px;
-    line-height: calc(13 / 11);
+    line-height: 13px;
     padding: 11px 10px;
     margin-bottom: 10px;
   }
 
   .about__label {
     font-size: 11px;
-    line-height: calc(13 / 11);
+    line-height: 13px;
   }
 }
